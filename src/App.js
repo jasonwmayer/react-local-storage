@@ -23,7 +23,7 @@ const App = () => {
     <div>
       <h1>Hello React with Local Storage!</h1>
 
-      <input value={value} type="text" onChange={onChange} />
+      <input value={value} type="text"  />
 
       <p>{value}</p>
     </div>
